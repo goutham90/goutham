@@ -1,0 +1,7 @@
+echo "# goutham" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/goutham90/goutham.git
+git push -u origin main
